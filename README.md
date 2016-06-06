@@ -3,6 +3,7 @@
 - redis for linux & windows(64bit).
 - doc is come from 
 
+<pre>
 
 I:\github\ms-redis\redis\msvs\x64\Debug>D:\redis\redis-server.exe
 [3344] 06 Jun 23:02:23.707 # Warning: no config file specified, using the default config. In order t
@@ -24,3 +25,6 @@ o specify a config file use D:\redis\redis-server.exe /path/to/redis.conf
       `-._    `-.__.-'    _.-'
           `-._        _.-'
               `-.__.-'
+
+
+</pre>
